@@ -49,7 +49,7 @@ mkdir ~/.config/
 
 ### 基本使用方法
 
- （和Vim逻辑相同，leader键改成了<SPACE>)
+ （和Vim逻辑相同，leader键改成了\<SPACE\>)
  （考试周后更新）
  
 ### 一些环境依赖和坑
